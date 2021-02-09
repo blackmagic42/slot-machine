@@ -1,0 +1,1135 @@
+2021-02-01 00:53:02> démarrage du programme...
+2021-02-01 00:53:02> initialisation terminée
+2021-02-01 00:53:02> Affichage avec succès du bitmap data/start.bmp
+2021-02-01 00:53:09> Appel du menu principal
+2021-02-01 00:53:09> Dossier 'theme' ouvert avec succès
+2021-02-01 00:53:09> Parcours des sous dossiers (MAX 10)
+2021-02-01 00:53:09> 1/10:belnos
+2021-02-01 00:53:09> 2/10:dominos
+2021-02-01 00:53:09> 3/10:nombres
+2021-02-01 00:53:09> Aucune roue préexistante. Creation d'une nouvelle
+2021-02-01 00:53:09> Execution du menu 'Choisir son nombre de crédit initial'
+2021-02-01 00:53:13> Le nombre de crédit a été initialisé à 740$
+2021-02-01 00:53:13> Affichage du menu principal
+2021-02-01 00:53:13> Affichage avec succès du bitmap ../data/right.bmp
+2021-02-01 00:53:13> Affichage avec succès du bitmap ../data/left.bmp
+2021-02-01 00:53:13> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:13> Chargement du paquet:belnos
+2021-02-01 00:53:13> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:13> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:13> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:13> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:13> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:13> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:13> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:13> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:13> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:13> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:13> Le paquet belnos a bien été chargé
+2021-02-01 00:53:14> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:14> Chargement du paquet:dominos
+2021-02-01 00:53:14> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:14> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:14> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:14> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:14> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:14> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:14> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:14> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:14> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:15> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:15> Le paquet dominos a bien été chargé
+2021-02-01 00:53:15> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:15> Chargement du paquet:nombres
+2021-02-01 00:53:15> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:15> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:15> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:15> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:15> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:15> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:15> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:15> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:15> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:15> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:15> Le paquet nombres a bien été chargé
+2021-02-01 00:53:16> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:16> Chargement du paquet:nombres
+2021-02-01 00:53:16> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:16> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:16> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:16> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:16> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:16> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:16> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:16> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:16> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:16> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:16> Le paquet nombres a bien été chargé
+2021-02-01 00:53:19> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:19> Chargement du paquet:dominos
+2021-02-01 00:53:19> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:19> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:19> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:19> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:19> Le paquet dominos a bien été chargé
+2021-02-01 00:53:19> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:19> Chargement du paquet:belnos
+2021-02-01 00:53:19> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:19> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:19> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:19> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:19> Le paquet belnos a bien été chargé
+2021-02-01 00:53:19> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:19> Chargement du paquet:belnos
+2021-02-01 00:53:19> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:19> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:19> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:19> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:19> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:19> Le paquet belnos a bien été chargé
+2021-02-01 00:53:22> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:22> Chargement du paquet:dominos
+2021-02-01 00:53:22> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:22> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:22> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:22> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:22> Le paquet dominos a bien été chargé
+2021-02-01 00:53:22> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:22> Chargement du paquet:belnos
+2021-02-01 00:53:22> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:22> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:22> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:22> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:22> Le paquet belnos a bien été chargé
+2021-02-01 00:53:22> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:22> Chargement du paquet:dominos
+2021-02-01 00:53:22> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:22> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:22> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:22> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:22> Le paquet dominos a bien été chargé
+2021-02-01 00:53:22> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:22> Chargement du paquet:nombres
+2021-02-01 00:53:22> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:22> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:22> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:22> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:22> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:22> Le paquet nombres a bien été chargé
+2021-02-01 00:53:23> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:23> Chargement du paquet:nombres
+2021-02-01 00:53:23> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:23> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:23> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:23> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:23> Le paquet nombres a bien été chargé
+2021-02-01 00:53:23> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:23> Chargement du paquet:nombres
+2021-02-01 00:53:23> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:23> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:23> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:23> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:23> Le paquet nombres a bien été chargé
+2021-02-01 00:53:23> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:23> Chargement du paquet:dominos
+2021-02-01 00:53:23> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:23> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:23> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:23> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:23> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:23> Le paquet dominos a bien été chargé
+2021-02-01 00:53:24> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:24> Chargement du paquet:belnos
+2021-02-01 00:53:24> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:24> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:24> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:24> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:24> Le paquet belnos a bien été chargé
+2021-02-01 00:53:24> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:24> Chargement du paquet:belnos
+2021-02-01 00:53:24> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:24> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:24> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:24> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:24> Le paquet belnos a bien été chargé
+2021-02-01 00:53:24> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:24> Chargement du paquet:dominos
+2021-02-01 00:53:24> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:24> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:24> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:24> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:24> Le paquet dominos a bien été chargé
+2021-02-01 00:53:24> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:24> Chargement du paquet:nombres
+2021-02-01 00:53:24> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:24> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:24> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:24> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:24> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:24> Le paquet nombres a bien été chargé
+2021-02-01 00:53:25> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:25> Chargement du paquet:nombres
+2021-02-01 00:53:25> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:25> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:25> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:25> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:25> Le paquet nombres a bien été chargé
+2021-02-01 00:53:25> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:25> Chargement du paquet:dominos
+2021-02-01 00:53:25> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:25> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:25> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:25> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:25> Le paquet dominos a bien été chargé
+2021-02-01 00:53:25> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:25> Chargement du paquet:belnos
+2021-02-01 00:53:25> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:25> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:25> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:25> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:25> Le paquet belnos a bien été chargé
+2021-02-01 00:53:25> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:25> Chargement du paquet:belnos
+2021-02-01 00:53:25> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:25> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:25> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:25> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:25> Le paquet belnos a bien été chargé
+2021-02-01 00:53:25> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:25> Chargement du paquet:dominos
+2021-02-01 00:53:25> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:25> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:25> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:25> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:26> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:26> Le paquet dominos a bien été chargé
+2021-02-01 00:53:26> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:26> Chargement du paquet:belnos
+2021-02-01 00:53:26> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:26> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:26> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:26> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:26> Le paquet belnos a bien été chargé
+2021-02-01 00:53:26> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:26> Chargement du paquet:belnos
+2021-02-01 00:53:26> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:26> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:26> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:26> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:26> Le paquet belnos a bien été chargé
+2021-02-01 00:53:26> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:26> Chargement du paquet:belnos
+2021-02-01 00:53:26> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:26> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:26> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:26> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:26> Le paquet belnos a bien été chargé
+2021-02-01 00:53:26> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:26> Chargement du paquet:belnos
+2021-02-01 00:53:26> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:26> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:26> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:26> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:26> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:26> Le paquet belnos a bien été chargé
+2021-02-01 00:53:27> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:27> Chargement du paquet:belnos
+2021-02-01 00:53:27> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:27> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:27> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:27> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:27> Le paquet belnos a bien été chargé
+2021-02-01 00:53:27> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:27> Chargement du paquet:dominos
+2021-02-01 00:53:27> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:27> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:27> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:27> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:27> Le paquet dominos a bien été chargé
+2021-02-01 00:53:27> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:27> Chargement du paquet:nombres
+2021-02-01 00:53:27> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:27> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:27> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:27> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:27> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:27> Le paquet nombres a bien été chargé
+2021-02-01 00:53:28> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:28> Chargement du paquet:nombres
+2021-02-01 00:53:28> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:28> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:28> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:28> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:28> Le paquet nombres a bien été chargé
+2021-02-01 00:53:28> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:28> Chargement du paquet:nombres
+2021-02-01 00:53:28> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:28> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:28> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:28> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:28> Le paquet nombres a bien été chargé
+2021-02-01 00:53:28> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:28> Chargement du paquet:nombres
+2021-02-01 00:53:28> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:28> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:28> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:28> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:28> Le paquet nombres a bien été chargé
+2021-02-01 00:53:28> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:28> Chargement du paquet:dominos
+2021-02-01 00:53:28> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:28> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:28> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:28> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:28> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:28> Le paquet dominos a bien été chargé
+2021-02-01 00:53:29> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:29> Chargement du paquet:belnos
+2021-02-01 00:53:29> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:29> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:29> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:29> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:29> Le paquet belnos a bien été chargé
+2021-02-01 00:53:29> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:29> Chargement du paquet:belnos
+2021-02-01 00:53:29> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:29> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:29> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:29> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:29> Le paquet belnos a bien été chargé
+2021-02-01 00:53:29> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:29> Chargement du paquet:dominos
+2021-02-01 00:53:29> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:29> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:29> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:29> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:29> Le paquet dominos a bien été chargé
+2021-02-01 00:53:29> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:29> Chargement du paquet:nombres
+2021-02-01 00:53:29> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:29> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:29> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:29> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:29> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:29> Le paquet nombres a bien été chargé
+2021-02-01 00:53:30> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:30> Chargement du paquet:nombres
+2021-02-01 00:53:30> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:30> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:30> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:30> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:30> Le paquet nombres a bien été chargé
+2021-02-01 00:53:30> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:30> Chargement du paquet:nombres
+2021-02-01 00:53:30> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:30> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:30> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:30> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:30> Le paquet nombres a bien été chargé
+2021-02-01 00:53:30> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:30> Chargement du paquet:dominos
+2021-02-01 00:53:30> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:30> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:30> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:30> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:30> Le paquet dominos a bien été chargé
+2021-02-01 00:53:30> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:30> Chargement du paquet:belnos
+2021-02-01 00:53:30> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:30> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:30> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:30> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:30> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:30> Le paquet belnos a bien été chargé
+2021-02-01 00:53:31> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:31> Chargement du paquet:belnos
+2021-02-01 00:53:31> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:31> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:31> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:31> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:31> Le paquet belnos a bien été chargé
+2021-02-01 00:53:31> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:31> Chargement du paquet:dominos
+2021-02-01 00:53:31> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:31> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:31> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:31> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:31> Le paquet dominos a bien été chargé
+2021-02-01 00:53:31> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:31> Chargement du paquet:nombres
+2021-02-01 00:53:31> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:31> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:31> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:31> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:31> Le paquet nombres a bien été chargé
+2021-02-01 00:53:31> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:31> Chargement du paquet:nombres
+2021-02-01 00:53:31> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:31> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:31> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:31> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:31> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:31> Le paquet nombres a bien été chargé
+2021-02-01 00:53:32> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:32> Chargement du paquet:nombres
+2021-02-01 00:53:32> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:32> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:32> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:32> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:32> Le paquet nombres a bien été chargé
+2021-02-01 00:53:32> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:32> Chargement du paquet:dominos
+2021-02-01 00:53:32> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:32> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:32> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:32> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:32> Le paquet dominos a bien été chargé
+2021-02-01 00:53:32> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:32> Chargement du paquet:belnos
+2021-02-01 00:53:32> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:32> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:32> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:32> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:32> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:32> Le paquet belnos a bien été chargé
+2021-02-01 00:53:33> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:33> Chargement du paquet:belnos
+2021-02-01 00:53:33> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:33> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:33> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:33> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:33> Le paquet belnos a bien été chargé
+2021-02-01 00:53:33> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:33> Chargement du paquet:dominos
+2021-02-01 00:53:33> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:33> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:33> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:33> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:33> Le paquet dominos a bien été chargé
+2021-02-01 00:53:33> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:33> Chargement du paquet:nombres
+2021-02-01 00:53:33> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:33> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:33> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:33> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:33> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:33> Le paquet nombres a bien été chargé
+2021-02-01 00:53:34> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:34> Chargement du paquet:nombres
+2021-02-01 00:53:34> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:34> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:34> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:34> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:34> Le paquet nombres a bien été chargé
+2021-02-01 00:53:34> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:34> Chargement du paquet:dominos
+2021-02-01 00:53:34> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:34> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:34> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:34> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:34> Le paquet dominos a bien été chargé
+2021-02-01 00:53:34> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:34> Chargement du paquet:nombres
+2021-02-01 00:53:34> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:34> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:34> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:34> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:34> Le paquet nombres a bien été chargé
+2021-02-01 00:53:34> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:34> Chargement du paquet:dominos
+2021-02-01 00:53:34> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:34> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:34> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:34> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:34> Le paquet dominos a bien été chargé
+2021-02-01 00:53:34> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:34> Chargement du paquet:belnos
+2021-02-01 00:53:34> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:34> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:34> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:34> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:34> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:34> Le paquet belnos a bien été chargé
+2021-02-01 00:53:35> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:35> Chargement du paquet:belnos
+2021-02-01 00:53:35> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:35> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:35> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:35> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:35> Le paquet belnos a bien été chargé
+2021-02-01 00:53:35> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:35> Chargement du paquet:belnos
+2021-02-01 00:53:35> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:35> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:35> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:35> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:35> Le paquet belnos a bien été chargé
+2021-02-01 00:53:35> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:35> Chargement du paquet:dominos
+2021-02-01 00:53:35> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:35> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:35> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:35> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:35> Le paquet dominos a bien été chargé
+2021-02-01 00:53:35> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:35> Chargement du paquet:belnos
+2021-02-01 00:53:35> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:35> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:35> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:35> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:35> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:35> Le paquet belnos a bien été chargé
+2021-02-01 00:53:36> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:36> Chargement du paquet:dominos
+2021-02-01 00:53:36> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:36> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:36> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:36> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:36> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:36> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:36> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:36> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:36> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:36> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:36> Le paquet dominos a bien été chargé
+2021-02-01 00:53:37> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:37> Chargement du paquet:nombres
+2021-02-01 00:53:37> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:37> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:37> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:37> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:37> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:37> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:37> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:37> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:37> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:37> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:37> Le paquet nombres a bien été chargé
+2021-02-01 00:53:39> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:39> Chargement du paquet:dominos
+2021-02-01 00:53:39> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:39> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:39> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:39> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:39> Le paquet dominos a bien été chargé
+2021-02-01 00:53:39> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:39> Chargement du paquet:belnos
+2021-02-01 00:53:39> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:39> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:39> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:39> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:39> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:39> Le paquet belnos a bien été chargé
+2021-02-01 00:53:40> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:40> Chargement du paquet:belnos
+2021-02-01 00:53:40> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:40> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:40> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:40> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:40> Le paquet belnos a bien été chargé
+2021-02-01 00:53:40> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:40> Chargement du paquet:belnos
+2021-02-01 00:53:40> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:40> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:40> le caractère B contenu dans B.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère E contenu dans E.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère L contenu dans L.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère N contenu dans N.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère O contenu dans O.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> le caractère S contenu dans S.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:40> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:40> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:40> Le paquet belnos a bien été chargé
+2021-02-01 00:53:41> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:41> Chargement du paquet:dominos
+2021-02-01 00:53:41> 49 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:41> Une grille de 49 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:41> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 2 contenu dans 2.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 5 contenu dans 5.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:41> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:41> Le paquet dominos a bien été chargé
+2021-02-01 00:53:41> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:41> Chargement du paquet:nombres
+2021-02-01 00:53:41> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:41> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:41> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:41> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:41> Le paquet nombres a bien été chargé
+2021-02-01 00:53:41> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:41> Chargement du paquet:nombres
+2021-02-01 00:53:41> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:41> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:41> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:41> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:41> Le paquet nombres a bien été chargé
+2021-02-01 00:53:41> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:41> Chargement du paquet:nombres
+2021-02-01 00:53:41> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:41> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:41> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:41> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:41> Le paquet nombres a bien été chargé
+2021-02-01 00:53:41> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:41> Chargement du paquet:nombres
+2021-02-01 00:53:41> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:41> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:41> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:41> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:41> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:41> Le paquet nombres a bien été chargé
+2021-02-01 00:53:42> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:42> Chargement du paquet:nombres
+2021-02-01 00:53:42> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:42> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:42> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:42> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:42> Le paquet nombres a bien été chargé
+2021-02-01 00:53:42> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:42> Chargement du paquet:nombres
+2021-02-01 00:53:42> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:42> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:42> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:42> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:42> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:42> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-01 00:53:43> Tentative de fermeture du paquet actuel
+2021-02-01 00:53:43> Chargement du paquet:nombres
+2021-02-01 00:53:43> 50 combinaison(s) ont bien été chargé(es) (combinations.txt)
+2021-02-01 00:53:43> Une grille de 50 lignes a été généré dans le fichier ../../data/grid.txt
+2021-02-01 00:53:43> le caractère 1 contenu dans 1.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 3 contenu dans 3.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 4 contenu dans 4.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 6 contenu dans 6.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 7 contenu dans 7.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> le caractère 8 contenu dans 8.txt a bien été chargé (10 ligne(s) détectée(s))
+2021-02-01 00:53:43> 6 caractère(s) ont été chargé(s) avec succès
+2021-02-01 00:53:43> Affichage avec succès du bitmap image.bmp
+2021-02-01 00:53:43> Le paquet nombres a bien été chargé
+2021-02-02 20:45:09> Tentative de fermeture du paquet actuel
+2021-02-02 20:45:09> Fin du programme
